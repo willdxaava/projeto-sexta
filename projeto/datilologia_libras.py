@@ -152,3 +152,4 @@ if __name__ == "__main__":
             reconhecer_letras(modelo)
     else:
         print("Opção inválida.")
+100000
